@@ -19,6 +19,10 @@ links
 * [Multi-Account Containers  FF](https://github.com/mozilla/multi-account-containers/#readme)
 
 
+**Crypto**
+* [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book/blob/master/asymmetric-key-ciphers/ecc-encryption-decryption.md)
+
+
 **Embedded**
 * [Simple GUI](https://github.com/hampussandberg/HexConnect/wiki/Simple-GUI)
 
