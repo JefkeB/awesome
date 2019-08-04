@@ -25,7 +25,8 @@ links
 * [Deep Dive on End-to-End Encryption](https://ssd.eff.org/en/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work)
 * [Understanding Public Key Infrastructure and X.509 Certificates](https://www.linuxjournal.com/content/understanding-public-key-infrastructure-and-x509-certificates)
 * [Memtype -- Open Hardware Password & Data Manager](https://github.com/jim17/memtype)
-
+* [ATECC508A Node Authentication Example Walk-through](
+https://www.digikey.com/eewiki/display/Motley/ATECC508A+Node+Authentication+Example+Walk-through)
 
 **DNS**
 * [Get a personal local DNS Server for privacy & security](https://technitium.com/dns/)
