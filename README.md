@@ -20,8 +20,15 @@ links
 
 
 **Crypto**
-* [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book/blob/master/asymmetric-key-ciphers/ecc-encryption-decryption.md)
+* [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book/blob/master/asymmetric-key-ciphers/ecc-encryption-decryption.md
+* [ebook for above site](https://cryptobook.nakov.com/)
+* [Deep Dive on End-to-End Encryption](https://ssd.eff.org/en/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work)
+* [Understanding Public Key Infrastructure and X.509 Certificates](https://www.linuxjournal.com/content/understanding-public-key-infrastructure-and-x509-certificates)
+* [Memtype -- Open Hardware Password & Data Manager](https://github.com/jim17/memtype)
 
+
+**DNS**
+* [Get a personal local DNS Server for privacy & security](https://technitium.com/dns/)
 
 **Embedded**
 * [Simple GUI](https://github.com/hampussandberg/HexConnect/wiki/Simple-GUI)
@@ -40,6 +47,7 @@ links
 **Linux**
 * [E-ALE Course Material](https://cm.e-ale.org/2019/LCA2019/)
 * [Embbeded Aprentice Linux Engineer](https://github.com/e-ale/)
+* [Socket programming in C on Linux – The Ultimate Guide for Beginners](https://www.binarytides.com/socket-programming-c-linux-tutorial/)
 
 
 **macOS**
