@@ -54,3 +54,7 @@ https://www.digikey.com/eewiki/display/Motley/ATECC508A+Node+Authentication+Exam
 **macOS**
 * [How to Install a Totally Free Windows 10 OS on Your Mac for Fun and Profit](https://towardsdatascience.com/how-to-install-a-free-windows-virtual-machine-on-your-mac-bf7cbc05888e)
 
+
+**USB**  
+* [USB Driver Tool (change drivers for usb devices)](http://visualgdb.com/UsbDriverTool/)  
+* [Zadig (change drivers for usb devices)](https://zadig.akeo.ie/)
